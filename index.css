@@ -1,0 +1,25 @@
+.linkcat {
+    margin-bottom: 20px;
+    color: #61B3E6;
+}
+
+.linkcat strong {
+    border-bottom: 1px dashed #ccc;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: 4px;
+    color: #61B3E6;
+    font-weight: bold;
+}
+
+.linkspage {
+    display: inline-block;
+    height: 32px;
+    line-height: 32px;
+    width: 148px;
+    margin: 0 4px 8px 4px;
+    overflow: hidden;
+    font-size: 13px;
+    border: 1px solid #DEDEDE;
+    text-indent: 10px;
+}
